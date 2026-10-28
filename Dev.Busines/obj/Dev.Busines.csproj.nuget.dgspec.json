@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj": {}
+    "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj": {}
   },
   "projects": {
-    "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj": {
+    "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj",
+        "projectUniqueName": "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj",
         "projectName": "Dev.Busines",
-        "projectPath": "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj",
+        "projectPath": "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\Dev.Busines.csproj",
         "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-        "outputPath": "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\obj\\",
+        "outputPath": "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.Busines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config"
