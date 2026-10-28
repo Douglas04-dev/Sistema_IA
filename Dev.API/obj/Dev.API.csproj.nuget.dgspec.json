@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj": {}
+    "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj": {}
   },
   "projects": {
-    "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj": {
+    "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj",
+        "projectUniqueName": "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj",
         "projectName": "Dev.API",
-        "projectPath": "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj",
+        "projectPath": "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\Dev.API.csproj",
         "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-        "outputPath": "c:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\obj\\",
+        "outputPath": "C:\\DEV\\Sistema_IA\\Sistema_IA\\Dev.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config"
